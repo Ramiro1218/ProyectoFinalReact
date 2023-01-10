@@ -1,0 +1,7 @@
+.addBtn:focus, .removeBtn:focus{
+    box-shadow: none;
+}
+
+.detailStockDisponible{
+    font-size: 12px;
+}
